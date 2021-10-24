@@ -1,0 +1,15 @@
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\Mehmet\source\repos\FinalPractice\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
